@@ -1,5 +1,5 @@
 # Niklas_Portfolio
-Portfolio of Data Science projects
+Overview Data Science Projects
 
 # Project 1: Credit Card Approval Classification (link here!)
 * Trained and evaluated a binary classification model to predict the suitability of a credit card applicant based on personal data.
@@ -8,5 +8,10 @@ Portfolio of Data Science projects
 * Used SMOTE as data synthesization technique to balance the classes represented in the dataset.
 * Trained and evaluated different classification models (Logistic Regression, Random Forest, Support Vector Machine) using k-fold cross validation.
 * Reviewed model performance by looking at important metrics such as confusion matrix, F1-Score, ROC Curve/ROC AUC score.
+
+
+# Project 2: Deep Learning for Electric Motor Temperature Estimation (linke here!)
+* Built linear ML models as well as Deep Neural Networks to predict the temperature of motor components inside a Permanent Magnet Synchronous Motor.
+* 
 
 
