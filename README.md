@@ -9,6 +9,8 @@ Overview Data Science Projects
 * Trained and evaluated different classification models (Logistic Regression, Random Forest, Support Vector Machine) using k-fold cross validation.
 * Reviewed model performance by looking at important metrics such as confusion matrix, F1-Score, ROC Curve/ROC AUC score.
 
+[]()
+
 
 # Project 2: Deep Learning for Electric Motor Temperature Estimation (linke here!)
 * Built linear ML models as well as Deep Neural Networks to predict the temperature of motor components inside a Permanent Magnet Synchronous Motor.
