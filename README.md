@@ -9,7 +9,7 @@ Overview Data Science Projects
 * Trained and evaluated different classification models (Logistic Regression, Random Forest, Support Vector Machine) using k-fold cross validation.
 * Reviewed model performance by looking at important metrics such as confusion matrix, F1-Score, ROC Curve/ROC AUC score.
 
-[](https://github.com/nikprt/Niklas_Portfolio/tree/main/images/cc_plots.png)
+[](https://github.com/nikprt/Niklas_Portfolio/blob/main/images/cc_plots.png)
 
 
 # Project 2: Deep Learning for Electric Motor Temperature Estimation (linke here!)
