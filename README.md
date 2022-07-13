@@ -1,7 +1,7 @@
 # Niklas_Portfolio
 Overview Data Science Projects
 
-# Project 1: Credit Card Approval Classification (link here!)
+# Project 1: Credit Card Approval Classification (https://github.com/nikprt/Creditcard_Approval_Classification)
 * Trained and evaluated a binary classification model to predict the suitability of a credit card applicant based on personal data.
 * Worked with real-world data including data of ~36,000 applicant IDs.
 * Used EDA and Vintage Analysis to illustrate the payment behaviour of the applicants and assign a label to each applicant ID {'good', 'bad'}.
