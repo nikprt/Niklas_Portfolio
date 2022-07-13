@@ -1,7 +1,7 @@
 # Niklas_Portfolio
 Overview Data Science Projects
 
-# [Project 1: Credit Card Approval Classification] (https://github.com/nikprt/Creditcard_Approval_Classification)
+# [Project 1: Credit Card Approval Classification](https://github.com/nikprt/Creditcard_Approval_Classification)
 * Trained and evaluated a binary classification model to predict the suitability of a credit card applicant based on personal data.
 * Worked with real-world data including data of ~36,000 applicant IDs.
 * Used EDA and Vintage Analysis to illustrate the payment behaviour of the applicants and assign a label to each applicant ID {'good', 'bad'}.
@@ -12,7 +12,7 @@ Overview Data Science Projects
 ![](/images/cc_plots.png)
 
 
-# [Project 2: Deep Learning for Electric Motor Temperature Estimation] (linke here!)
+# [Project 2: Deep Learning for Electric Motor Temperature Estimation](linke here!)
 * Built linear ML models as well as Deep Neural Networks to predict the temperature of motor components inside a Permanent Magnet Synchronous Motor.
 * 
 
