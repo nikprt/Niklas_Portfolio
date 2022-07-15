@@ -12,8 +12,8 @@ Overview Data Science Projects
 ![](/images/cc_figures.png)
 
 
-# [Project 2: Deep Learning for Electric Motor Temperature Estimation](linke here!)
+# [Project 2: Deep Learning for Electric Motor Temperature Estimation](https://github.com/nikprt/PMSM_Temperature_Estimation)
 * Built linear ML models as well as Deep Neural Networks to predict the temperature of motor components inside a Permanent Magnet Synchronous Motor.
 * 
 
-
+![](/images/eda_figures.png)
