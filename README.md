@@ -16,7 +16,7 @@ Overview Data Science Projects
 * Built linear ML models as well as Deep Neural Networks to predict the temperature of motor components inside a Permanent Magnet Synchronous Motor.
 * Used EDA to analyze the dynamics of the measurement profiles.
 * Used feature engineering and correlation analysis to create additional features and measure their linear relationships.
-* Computed weighted moving averages to adopt to the timeseries data for training.
+* Computed weighted moving averages to adapt to the timeseries data for training.
 * Trained and evaluated Linear Regressors and Feedforward Neural Networks for the permanent magnet temperature prediction.
 
 ![](/images/eda_figures.png)
