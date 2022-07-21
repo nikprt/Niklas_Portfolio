@@ -19,10 +19,5 @@ Overview Data Science Projects
 * Computed weighted moving averages to adapt to the timeseries data for training.
 * Trained and evaluated Linear Regressors and Feedforward Neural Networks for the permanent magnet temperature prediction.
 
-![](/images/eda_figures.png)
-
-
-# [Project 3: Crop Yield Loss Prediction](https://github.com/nikprt/Crop_Yield_Failure_Prediction)
-* Trained and evaluated a ML regression model to predict a possible risk of crop yield loss (wheat) based on weather and geospatial data.
-* Built a GUI for inputting model parameters and gaining insights about the data patterns. 
+![](/images/pmsm_figures.png)
 
