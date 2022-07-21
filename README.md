@@ -1,5 +1,5 @@
 # Niklas Data Science Portfolio
-My DS/ML Projects
+
 
 # [Project 1: Credit Card Approval Classification](https://github.com/nikprt/Creditcard_Approval_Classification)
 * Trained and evaluated a binary classification model to predict the suitability of a credit card applicant based on personal data.
