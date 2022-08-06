@@ -24,7 +24,7 @@
 
 # [Project 3: Crop Yield Analysis](https://github.com/nikprt/Crop_Yield_Analysis)
 * Used ML techniques such as linear regression, K-means clustering and K-Nearest-Neighbors to predict a current risk of crop yield losses.
-* Fitted a linear model on weather and geospatial data related features (average air temperatures, precipitations etc.).
+* Fitted a linear model on raw weather and geospatial data related features (average air temperatures, precipitations etc.).
 * Used clustering for grouping the data into high and lower risk data groups.
 * Used a classification algorithm (KNN) to assign the ML prediction to one of the clusters.
 
